@@ -5,6 +5,7 @@ include('header_index.php');
 ?>
 
 <!-- header --------------------------------------------------------------------------------->
+<html>
 <head>
     <link rel="stylesheet" href="css/index.css">
     <title>Home Page</title>
